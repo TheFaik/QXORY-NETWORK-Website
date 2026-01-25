@@ -1,9 +1,9 @@
 # QROXY NETWORK Website
 [![MIT](https://img.shields.io/badge/License-MIT-lightgrey.svg?style=flat-square)](LICENSE)
 
-The repository of official VIP-Mine website, powered by [VitePress](https://vitepress.dev/).
+The repository of official QROXY NETWORK website, powered by [VitePress](https://vitepress.dev/).
 
-Visit the website in https://www.vip-mine.ru/
+Visit the website in https://www.qroxynet.ru/
 
 ## 📦 Development
 
