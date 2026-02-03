@@ -2,23 +2,23 @@
 layout: home
 
 hero:
-  name: "QROXY NETWORK"
+  name: "QXORY NETWORK"
   text: "Сеть серверов Minecraft"
   image: "logo.svg"
   tagline: Проект представляет сеть между проектами Minecraft, которые готовы сотрудничать друг с другом, чтобы достичь своих целей в месте
   actions:
     - theme: brand-button
       text: 🤗 Присоединиться к Проекту
-      link: https://ds.qroxynet.ru/
+      link: https://ds.qxorynet.ru/
     - theme: alt
       text: 🍃 Группа в VK
-      link: https://vk.com/qroxy_network
+      link: https://vk.com/qxory_network
     - theme: alt
       text: 🌾 Сервер Discord
-      link: https://ds.qroxynet.ru/
+      link: https://ds.qxorynet.ru/
     - theme: alt
       text: 🌿 GitHub
-      link: https://github.com/TheFaik/QROXY-NETWORK-Website
+      link: https://github.com/TheFaik/QXORY-NETWORK-Website
 
 features:
   - title: <span class='emoji'>🌾</span> ORICHILL

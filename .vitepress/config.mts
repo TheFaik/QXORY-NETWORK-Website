@@ -3,7 +3,7 @@ import sidebar from './sidebar.mts'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "VIP-MINE",
+  title: "[MSN] ''QXORY NETWORK''",
   description: "Сеть серверов Minecraft",
   base: "/",
   head: [['link', { rel: 'icon', href: '/logo.svg' }]],
@@ -30,9 +30,9 @@ export default defineConfig({
     sidebar,
 
     socialLinks: [
-      { icon: 'discord', link: 'https://ds.vip-mine.ru' },
-      { icon: 'vk', link: 'https://vk.com/vipmineru' },
-      { icon: 'github', link: 'https://github.com/TheFaik/VIP-Mine-website' }
+      { icon: 'discord', link: 'https://ds.qxorynet.ru' },
+      { icon: 'vk', link: 'https://vk.com/qxory_network' },
+      { icon: 'github', link: 'https://github.com/TheFaik/QXORY-NETWORK-website' }
     ]
   }
 })
