@@ -2,7 +2,7 @@
 layout: home
 
 hero:
-  name: "QXORY NETWORK"
+  name: "[MSN] ''QXORY NETWORK''"
   text: "Сеть серверов Minecraft"
   image: "logo.svg"
   tagline: Проект представляет сеть между проектами Minecraft, которые готовы сотрудничать друг с другом, чтобы достичь своих целей в месте
